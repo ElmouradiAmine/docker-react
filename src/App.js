@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>Hello everyone</p>
+      <p>This is my first deployement on Elasticbeanstalk</p>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
